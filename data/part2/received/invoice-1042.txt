@@ -1,0 +1,4 @@
+Invoice #1042
+Customer: Wadi Makkah Training Center
+Amount due: 18400 SAR
+IBAN on file: see finance system

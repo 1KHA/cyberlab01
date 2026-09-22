@@ -1,0 +1,4 @@
+Quarterly Security Report - Q3
+Total incidents: 12
+Critical incidents: 1
+Approved by: IT Security Manager

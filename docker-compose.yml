@@ -1,0 +1,11 @@
+services:
+  integrity-lab:
+    build: .
+    image: cyber-lab/integrity:1.0
+    container_name: integrity-lab
+    hostname: integrity-lab
+    network_mode: "none"        # no network at all - fully isolated
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./work:/lab/work        # students save their notes/results here (visible on host)
